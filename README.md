@@ -1,8 +1,6 @@
 # README
 
-A simple repo for practicing working with the Context API and Firebase
-
-## Phase 1: Simple Local User Login Context
+A practice repo for working with the Context API
 
 - Objective: Practice the fundamentals of the context syntax
 - Tasks:
